@@ -1,0 +1,17 @@
+{
+  "1": {
+    "id": 1,
+    "nome": "Ana",
+    "votos": 0
+  },
+  "2": {
+    "id": 2,
+    "nome": "Beto",
+    "votos": 0
+  },
+  "3": {
+    "id": 3,
+    "nome": "Ronaldo",
+    "votos": 0
+  }
+}
